@@ -22,9 +22,8 @@ Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell t
 
 ### Join our community on Slack
 
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
+If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ).
 
 ### Fonts Used
 
-For headings: https://fonts.google.com/specimen/Prata
-For body: https://fonts.google.com/specimen/Inter
+https://fonts.googleapis.com/css2?family=Exo:wght@400;700&display=swap
