@@ -20,6 +20,13 @@ body {
     text-decoration: none;
 }
 
+.link__botao:hover {
+    background-color: #ffffff;
+    transform: scale(1.1);
+    transition: 400ms;
+    font-weight: bold;
+}
+
 .cabecalho__principal {
     display: flex;
     width: 100%;
@@ -31,6 +38,10 @@ body {
 .link__meio {
     text-decoration: none;
     color: #808080;
+}
+
+.link__meio:hover {
+    border-bottom: #808080 solid 1px;
 }
 
 .cabecalho__link {
@@ -204,6 +215,12 @@ body {
     font-size: 20px;
     font-weight: 400;
     text-decoration: none;
+}
+
+.link__botao--dois:hover {
+    background-color: #ffffff;
+    transition: 400ms;
+    font-weight: bold;
 }
 
 .botao__contato {
